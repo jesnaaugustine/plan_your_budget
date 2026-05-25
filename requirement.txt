@@ -2,5 +2,11 @@ streamlit
 pandas
 numpy
 sqlalchemy
-pymupdf
 python-dotenv
+db-sqlite3
+ipykernel 
+unstructured[pdf] 
+pymupdf 
+pdfplumber
+nltk
+camelot-py
