@@ -10,3 +10,13 @@ pymupdf
 pdfplumber
 nltk
 camelot-py
+PyPDF2
+pytesseract
+pillow
+opencv-python
+dateparser
+sentence-transformers
+opensearch-py
+langchain
+langchain-text-splitters
+ollama
